@@ -19,5 +19,8 @@
 
 * [<span style="color:#FD7B4C">P3 Usual directory and error codes.</span>](https://github.com/Akirachii/SEX/blob/main/UD5-APACHE/P3-directories%26%26error_codes.pdf)
 
+* [<span style="color:#FD7B4C">P5 Basic conf and user modules</span>](https://github.com/Akirachii/SEX/blob/main/UD5-APACHE/P5-Modules%26%26personal_directories.pdf)
+
+
 </details>
 
