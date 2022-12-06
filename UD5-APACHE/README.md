@@ -1,6 +1,6 @@
 # <span style="color:#CE4F41">Created by Pau gradoli</span>
 
-![XKCD - User status](../SEX/UD5-APACHE/apache.png) 
+![XKCD - User status](/UD5-APACHE/apache.png) 
 
 
 # <span style="color:#980A3D">UD5 HTTP Service (Apache2) </span>
