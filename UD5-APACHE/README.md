@@ -17,7 +17,7 @@
 
 * [<span style="color:#FD7B4C">P2 Install and basic conf.</span>]()
 
-* [<span style="color:#FD7B4C">P3 Usual directory and error codes.</span>]()
+* [<span style="color:#FD7B4C">P3 Usual directory and error codes.</span>](https://github.com/Akirachii/SEX/blob/main/UD5-APACHE/P3-directories%26%26error_codes.pdf)
 
 </details>
 
