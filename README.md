@@ -1,20 +1,23 @@
-# <span style="color:#F09DD5">Created by Pau gradoli</span>
+# <span style="color:#CE4F41">Created by Pau gradoli</span>
+
+![XKCD - User status](../SEX/UD5-APACHE/apache.png) 
+
+
+# <span style="color:#980A3D">UD5 HTTP Service (Apache2) </span>
+
+
+### <span style="color:#FD7B4C">Index:</span>
 
 
 
+<details>
+<summary>Click to see Index</summary>
 
-## How to use Serverfix archives.
+* [<span style="color:#FD7B4C">P1 HTTP Protocol</span>]()
 
-First as we can see from they're names, thins files are made for diferent **machines**.
-### Here we have our fixes url.
-* [SERVER SCRIPT](https://github.com/Akirachii/SOX/blob/main/AV2/SERVERFIX/SERVERFIX.sh)
-* [LOCAL MACHINE SCRIPT](https://github.com/Akirachii/SOX/blob/main/AV2/SERVERFIX/LOCALFIX.sh)
+* [<span style="color:#FD7B4C">P2 Install and basic conf.</span>]()
 
-### Here we have user steps.
-1. First we will give execution permit to these two files.
-1. Then we'll execute *SERVERFIX* from the \"server\" always making sure the system *apache2* is on.
-1. After that, the second script, *LOCALFIX* must be executed in local machine, also making sure the machines are in the same network. 
-1. The final step is waiting for the comand to promt all the repeated mac with diferent ip.
+* [<span style="color:#FD7B4C">P3 Usual directory and error codes.</span>]()
 
+</details>
 
-![XKCD - User status](https://www.racksolutions.com/news//app/uploads/AdobeStock_90603827-1024x576.jpeg) 
