@@ -21,7 +21,13 @@
 
 * [<span style="color:#FD7B4C">P5 Basic conf and user modules</span>](https://github.com/Akirachii/SEX/blob/main/UD5-APACHE/P5-Modules%26%26personal_directories.pdf)
 
-* [<span style="color:#FD7B4C">P6 Control and authenticate>](https://github.com/Akirachii/SEX/blob/main/UD5-APACHE/P6-control-authenticate.pdf)
+* [<span style="color:#FD7B4C">P6 Control and authenticate </span>](https://github.com/Akirachii/SEX/blob/main/UD5-APACHE/P6-control-authenticate.pdf)
+
+* [<span style="color:#FD7B4C">P10 Name based Accommodation </span>](https://github.com/Akirachii/SEX/blob/main/UD5-APACHE/10-name_based_Accommodation.pdf)
+
+
+
+
 
 </details>
 
