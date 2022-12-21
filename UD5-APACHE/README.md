@@ -25,7 +25,7 @@
 
 * [<span style="color:#FD7B4C">P10 Name based Accommodation </span>](https://github.com/Akirachii/SEX/blob/main/UD5-APACHE/10-name_based_Accommodation.pdf)
 
-
+* [<span style="color:#FD7B4C">P12 HTTPS</span>](https://github.com/Akirachii/SEX/blob/main/UD5-APACHE/12-HTTPS.pdf)
 
 
 
